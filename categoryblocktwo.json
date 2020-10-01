@@ -1,22 +1,22 @@
 [
     {
-      "language": "Cute",
-      "languageShow": "Cute",
+      "language": "Troll",
+      "languageShow": "Troll",
       "languageId": 1
     },
     {
-      "language": "Movie Bites",
-      "languageShow": "Movie Bites",
+      "language": "Couples",
+      "languageShow": "Couples",
       "languageId": 2
     },
     {
-      "language": "Remix",
-      "languageShow": "Remix",
+      "language": "College",
+      "languageShow": "College",
       "languageId": 3
     },
     {
-      "language": "BGM",
-      "languageShow": "BGM",
+      "language": "Foodie",
+      "languageShow": "Foodie",
       "languageId": 4
     }
   ]
