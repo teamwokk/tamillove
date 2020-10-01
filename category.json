@@ -1,37 +1,37 @@
 [
     {
-      "language": "Kids Alaparaigal",
-      "languageShow": "Kids Alaparaigal",
+      "language": "Love",
+      "languageShow": "Love",
       "languageId": 1
     },
     {
-      "language": "Troll",
-      "languageShow": "Troll",
+      "language": "Cute",
+      "languageShow": "Cute",
       "languageId": 2
     },
     {
-      "language": "TikTok",
-      "languageShow": "TikTok",
+      "language": "BGM",
+      "languageShow": "BGM",
       "languageId": 3
     },
     {
-      "language": "College ",
-      "languageShow": "College",
+      "language": "Movie Bites",
+      "languageShow": "Movie Bites",
       "languageId": 4
     },
     {
-      "language": "Vadivelu",
-      "languageShow": "Vadivelu",
+      "language": "Remix",
+      "languageShow": "Remix",
       "languageId": 5
     },
     {
-      "language": "Couples",
-      "languageShow": "Couples",
+      "language": "Funny",
+      "languageShow": "Funny",
       "languageId": 6
     },
     {
-      "language": "Others",
-      "languageShow": "Others",
+      "language": "Sad",
+      "languageShow": "Sad",
       "languageId": 7
     }
   ]
